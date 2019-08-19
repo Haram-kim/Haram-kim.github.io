@@ -8,13 +8,13 @@ description:
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/github_profile.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: false
 resume-external: false
-resume-url: https://google.com/?q=my+resume
+resume-url: https://google.com/
 
 url: https://Haram-kim.github.io
 # your url: http://USERNAME.github.io
