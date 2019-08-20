@@ -18,8 +18,8 @@ Moving object datasets. there are two static sequences, ...
 ---
 
 dataset list
-# - [desk] (dataset link)
-# - [toss] (dataset link)
-# - [wow] (dataset link)
-# - [amazing] (dataset link)
+- [desk] (dataset link)
+- [toss] (dataset link)
+- [wow] (dataset link)
+- [amazing] (dataset link)
 
