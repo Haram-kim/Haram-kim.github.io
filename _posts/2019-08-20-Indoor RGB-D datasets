@@ -1,0 +1,27 @@
+---
+title: "Indoor RGB-D datasets with moving objects "
+layout: post
+date: 2019-08-20 11:36
+tag: datasets
+# image: 
+# headerImage: true
+projects: true
+# hidden: true # don't count this post in blog pagination
+# description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+category: project
+author: haram-kim
+externalLink: false
+---
+
+![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
+
+Moving object datasets. there are two static sequences, ...
+
+---
+
+dataset list
+ - [desk] (dataset link)
+ - [toss] (dataset link)
+ - [wow] (dataset link)
+ - [amazing] (dataset link)
+
