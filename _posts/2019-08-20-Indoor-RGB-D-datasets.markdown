@@ -15,7 +15,7 @@ externalLink: false
 
 
 ---
-# LARR Dynamic Evironments RGB-D Dataset
+# LARR RGB-D Dataset for Dynamic Environments
 
 ## File Formats
 We provide the indoor RGB-D datasets from the Kinect v2 camera.
@@ -47,8 +47,7 @@ Each sequence contains the following components.
 We provide the ground-truth trajectories which are recorded by the VICON tracker. The trajectories are represented as the time, the translation xyz and the quaternion xyzw. The current version of the ground truth trajectories is represented in global coordinates. We will transform the trajectories into the orientation of the initial camera pose.
 
 
-
-# Datasets
+## Datasets
 
 | sequence name | duration | length | min <br> valid depth [\%] | description |
 |---------------|:--------:|:------:|:-------------------:|-------------|
