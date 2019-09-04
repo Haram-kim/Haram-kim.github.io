@@ -67,14 +67,14 @@ k2 = -0.0557
 
 | sequence name | duration | length | min <br> valid depth [%] | description |
 |---------------|:--------:|:------:|:-------------------:|-------------|
-| static_tree [ZIP](http://icsl.snu.ac.kr/haramkim/static_tree.zip)(0.14GB)| 23.15s | 0.00m  | 90.00% | A model tree moves in front of the fixed camera |
-| static_board [ZIP](http://icsl.snu.ac.kr/haramkim/static_board.zip)(0.27GB)| 24.70s | 0.00m  | 90.00% | A large-sized textured board moves which could be misrecognized as the background. |
-| static_man [ZIP](http://larr.snu.ac.kr/haramkim/static_man.zip)(0.23GB)| 39.91s | 0.00m | 90.00% | A man moves in front of the fixed camera. |
-| static_destruct [ZIP](http://icsl.snu.ac.kr/haramkim/static_destruct.zip)(0.13GB)| 45.41s | 0.00m | 90.00% | A man brings a building-shaped object A building-shaped object. |
-| static_construct [ZIP](http://icsl.snu.ac.kr/haramkim/static_construct.zip)(0.15GB)| 32.99s | 0.00m | 90.00% | A man removes a building-shaped object. |
-| dynamic_board [ZIP](http://icsl.snu.ac.kr/haramkim/dynamic_board.zip)(0.58GB)| 66.60s | 10.03m | 90.00% | A man brings a building-shaped object A building-shaped object in front of the freely moving camera.     |
-| dynamic_man1 [ZIP](http://icsl.snu.ac.kr/haramkim/dynamic_man1.zip)(0.37GB)| 47.57s | 5.441m | 90.00% |  A man moves in front of the freely moving camera.  |
-| dynamic_man2 [ZIP](http://icsl.snu.ac.kr/haramkim/dynamic_man2.zip)(0.38GB)| 48.11s | 12.41m | 90.00% | A man moves in front of the freely moving camera.  |
-| dynamic_toss [ZIP](http://icsl.snu.ac.kr/haramkim/dynamic_toss.zip)(0.16GB)| 82.48s | 24.42m | 90.00% | Two people toss a doll to each other.  |
+| *static_tree* [ZIP](http://icsl.snu.ac.kr/haramkim/static_tree.zip)(0.14GB)| 23.15s | 0.00m  | 90.00% | A model tree moves in front of the fixed camera |
+| *static_board* [ZIP](http://icsl.snu.ac.kr/haramkim/static_board.zip)(0.27GB)| 24.70s | 0.00m  | 90.00% | A large-sized textured board moves which could be misrecognized as the background. |
+| *static_man* [ZIP](http://larr.snu.ac.kr/haramkim/static_man.zip)(0.23GB)| 39.91s | 0.00m | 90.00% | A man moves in front of the fixed camera. |
+| *static_destruct* [ZIP](http://icsl.snu.ac.kr/haramkim/static_destruct.zip)(0.13GB)| 45.41s | 0.00m | 90.00% | A man brings a building-shaped object A building-shaped object. |
+| *static_construct* [ZIP](http://icsl.snu.ac.kr/haramkim/static_construct.zip)(0.15GB)| 32.99s | 0.00m | 90.00% | A man removes a building-shaped object. |
+| *dynamic_board* [ZIP](http://icsl.snu.ac.kr/haramkim/dynamic_board.zip)(0.58GB)| 66.60s | 10.03m | 90.00% | A man brings a building-shaped object A building-shaped object in front of the freely moving camera.     |
+| *dynamic_man1* [ZIP](http://icsl.snu.ac.kr/haramkim/dynamic_man1.zip)(0.37GB)| 47.57s | 5.441m | 90.00% |  A man moves in front of the freely moving camera.  |
+| *dynamic_man2* [ZIP](http://icsl.snu.ac.kr/haramkim/dynamic_man2.zip)(0.38GB)| 48.11s | 12.41m | 90.00% | A man moves in front of the freely moving camera.  |
+| *dynamic_toss* [ZIP](http://icsl.snu.ac.kr/haramkim/dynamic_toss.zip)(0.16GB)| 82.48s | 24.42m | 90.00% | Two people toss a doll to each other.  |
 
 
