@@ -2,9 +2,10 @@
 title: "Indoor RGB-D datasets with moving objects "
 layout: post
 date: 2019-08-20 11:36
-tag: datasets
-tag: moving objects
-tag: dynamic environments
+tag: 
+- datasets
+- moving objects
+- dynamic environments
 # image: 
 # headerImage: true
 projects: true
