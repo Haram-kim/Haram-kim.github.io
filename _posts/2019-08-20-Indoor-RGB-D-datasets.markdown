@@ -28,23 +28,15 @@ Each sequence contains the following components.
 * association.txt
 * groundtruth.txt
 
-#### rgb.dir
- The directory contains color images as 640 &times 480, 8-bit in PNG format. The name of each color image represents the recorded time in the second unit.
+#### rgb.dir & depth.dir
+ The rgb directory contains color images as 640 &times 480, 8-bit in PNG format and the depth directory contains registered depth images as 640 &times 480, 16-bit in PNG format. The name of each color image represents the recorded time in the second unit and is synchronized with the time of each others. The value of the depth unit is the millimeter. You can use the depth images in the meter unit by divide it into 1000.
  
-#### depth.dir
- The directory contains registered depth images as 640 &times 480, 16-bit in PNG format. The name of each depth images also represents the recorded time in the second unit and is synchronized with the time of color images. The value of the depth unit is the millimeter. You can use the depth images in the meter unit by divide it into 1000.
  
-#### groundtruth.dir
- The directory contains color images which shows manually segmented moving objects. The background is colored as a white. 
+#### groundtruth.dir & groundtruth mask.dir  
+ The directory contains color images which shows manually segmented moving objects. The white color represents the background in **groundtruth.dir** and represents the moving objects in **groundtruth mask.dir**. 
 
-#### groundtruth mask.dir
- The directory contains black and white images obtained from the segmented color images. The white color represents the moving objects. 
-
-#### association.txt
- We matched the time and the filename and stored on association file. 
-
-#### groundtruth.txt
-We provide the ground-truth trajectories which are recorded by the VICON tracker. The trajectories are represented as the time, the translation xyz and the quaternion xyzw. The current version of the ground truth trajectories is represented in global coordinates. We will transform the trajectories into the orientation of the initial camera pose.
+#### association.txt & groundtruth.txt
+ We matched the time and the filename and stored on association file. We also provide the ground-truth trajectories which are recorded by the VICON tracker. The trajectories are represented as the time, the translation xyz and the quaternion xyzw. The current version of the ground truth trajectories is represented in global coordinates. We will transform the trajectories into the orientation of the initial camera pose.
 
 #### Inrinsic Paramter
 
