@@ -60,7 +60,6 @@ factor = 1000
 # radial distortion coefficient
 k1 = 0.0369
 k2 = -0.0557
-
 ```
 
 
