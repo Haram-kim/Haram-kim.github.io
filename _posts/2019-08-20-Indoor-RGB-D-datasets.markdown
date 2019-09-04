@@ -13,11 +13,39 @@ author: haram-kim
 externalLink: false
 ---
 
-# LARR Dynamic Evironments RGB-D Dataset
-
-Moving object datasets. there are two static sequences, ...
 
 ---
+# LARR Dynamic Evironments RGB-D Dataset
+
+## File Formats
+We provide the indoor RGB-D datasets from the Kinect v2 camera.
+Each sequence contains the following components.
+
+* rgb.dir
+* depth.dir
+* groundtruth.dir
+* groundtruth mask.dir
+* association.txt
+* groundtruth.txt
+
+### rgb.dir
+ The directory contains color images as 640 &times 480, 8-bit in PNG format. The name of each color image represents the recorded time in the second unit.
+ 
+### depth.dir
+ The directory contains registered depth images as 640 &times 480, 16-bit in PNG format. The name of each depth images also represents the recorded time in the second unit and is synchronized with the time of color images. The value of the depth unit is the millimeter. You can use the depth images in the meter unit by divide it into 1000.
+ 
+### groundtruth.dir
+ The directory contains color images which shows manually segmented moving objects. The background is colored as a white. 
+
+### groundtruth mask.dir
+ The directory contains black and white images obtained from the segmented color images. The white color represents the moving objects. 
+
+### association.txt
+ We matched the time and the filename and stored on association file. 
+
+### groundtruth.txt
+We provide the ground-truth trajectories which are recorded by the VICON tracker. The trajectories are represented as the time, the translation xyz and the quaternion xyzw. The current version of the ground truth trajectories is represented in global coordinates. We will transform the trajectories into the orientation of the initial camera pose.
+
 
 
 # Datasets
