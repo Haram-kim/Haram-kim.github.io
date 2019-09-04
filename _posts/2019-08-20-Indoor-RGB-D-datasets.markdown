@@ -40,7 +40,7 @@ Each sequence contains the following components.
 #### groundtruth mask.dir
  The directory contains black and white images obtained from the segmented color images. The white color represents the moving objects. 
 
-### association.txt
+#### association.txt
  We matched the time and the filename and stored on association file. 
 
 #### groundtruth.txt
