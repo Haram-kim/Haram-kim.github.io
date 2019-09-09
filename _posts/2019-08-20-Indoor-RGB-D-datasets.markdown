@@ -1,5 +1,5 @@
 ---
-title: "Indoor RGB-D datasets with moving objects "
+title: "LARR RGB-D Dataset for Dynamic Environments"
 layout: post
 date: 2019-08-20 11:36
 tag: 
