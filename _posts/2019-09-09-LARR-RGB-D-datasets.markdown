@@ -59,7 +59,7 @@ k2 = -0.0557
 
 ### Datasets
 
-| sequence name | duration | length | min <br> valid depth [%] | description |
+| sequence name | duration | length | min <br> valid depth | description |
 |---------------|:--------:|:------:|:-------------------:|-------------|
 | <br> **static_tree** [ZIP](http://icsl.snu.ac.kr/haramkim/static_tree.zip)(0.14GB) <br> | 13.58s | 0.00m  | 84.66% | A model tree moves in front of the fixed camera |
 | <br> **static_board** [ZIP](http://icsl.snu.ac.kr/haramkim/static_board.zip)(0.27GB) <br> | 18.08s | 0.00m  | 81.% | A large-sized textured board moves which could be misrecognized as the background. |
