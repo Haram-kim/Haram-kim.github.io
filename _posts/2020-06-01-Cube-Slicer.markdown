@@ -21,9 +21,9 @@ externalLink: false
 ---
 ## Cube slicer
 
-![Markdowm Image][assets/images/Cube Slicer_main.jpg]
+![Markdowm Image][1]
 
-![Markdowm Image][assets/images/Cube Slicer.jpg]
+![Markdowm Image][2]
 
 ### Control
 ```
@@ -48,3 +48,6 @@ BGM source: https://soundcloud.com/crig-1/the-imperial-march-darth
 SFX source: https://freesound.org/ 
 
 Skybox source: https://opengameart.org/content/space-skyboxes-0
+
+[1]: assets/images/Cube Slicer_main.jpg
+[2]: assets/images/Cube Slice.jpg
