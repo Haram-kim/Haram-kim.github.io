@@ -23,7 +23,7 @@ externalLink: false
  [Download](http://icsl.snu.ac.kr/haramkim/CubeSlicer_Ver1.0.zip)(56.1MB)
  [Markdown Image](http://icsl.snu.ac.kr/haramkim/CubeSlicer/CubeSlicer_main.png)
 
- ![Markdown Image2][http://icsl.snu.ac.kr/haramkim/CubeSlicer/CubeSlicer_main.png]
+ ![Markdown Image2][/http://icsl.snu.ac.kr/haramkim/CubeSlicer/CubeSlicer_main.png]
 
 ### Control
 ```
