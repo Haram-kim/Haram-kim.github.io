@@ -50,4 +50,4 @@ SFX source: https://freesound.org/
 Skybox source: https://opengameart.org/content/space-skyboxes-0
 
 [1]: http://icsl.snu.ac.kr/haramkim/CubeSlicer/Cube Slicer_main.png
-[2]: /assets/images/Cube Slicer.png
+[2]: http://icsl.snu.ac.kr/haramkim/CubeSlicer/Cube Slicer.png
