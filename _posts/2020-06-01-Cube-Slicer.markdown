@@ -21,9 +21,9 @@ externalLink: false
 ---
 ## Cube slicer
 
-[Markdowm Image][1]
+![Markdowm Image][1]
 
-[Markdowm Image][2]
+![Markdowm Image][2]
 
 ### Control
 ```
@@ -49,5 +49,5 @@ SFX source: https://freesound.org/
 
 Skybox source: https://opengameart.org/content/space-skyboxes-0
 
-[1]: http://icsl.snu.ac.kr/haramkim/Cube Slicer/Cube Slicer_main.png
+[1]: http://icsl.snu.ac.kr/haramkim/CubeSlicer/Cube Slicer_main.png
 [2]: /assets/images/Cube Slicer.png
