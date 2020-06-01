@@ -21,6 +21,8 @@ externalLink: false
 ---
 ## Cube slicer
 
+Challenge your best slice
+
 ### Snapshots
  ![Main][1]
 
