@@ -21,9 +21,9 @@ externalLink: false
 ---
 ## Cube slicer
 
-![Markdowm Image][1]
+[Markdowm Image][1]
 
-![Markdowm Image][2]
+[Markdowm Image][2]
 
 ### Control
 ```
