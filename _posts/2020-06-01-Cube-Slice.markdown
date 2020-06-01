@@ -1,5 +1,5 @@
 ---
-title: "Cube slice"
+title: "Cube Slicer"
 layout: post
 date: 2020-06-01 14:24
 tag: 
