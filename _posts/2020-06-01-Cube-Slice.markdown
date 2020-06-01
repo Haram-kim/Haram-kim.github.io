@@ -32,11 +32,14 @@ Key 4: ON/OFF BGM
 ```
 ### Resource reference
 
-BGM source: https://soundcloud.com/crig-1/the-imperial-march-darth \n
-SFX source: https://freesound.org/
+BGM source: https://soundcloud.com/crig-1/the-imperial-march-darth 
+
+SFX source: https://freesound.org/ 
+
 Skybox source: https://opengameart.org/content/space-skyboxes-0
 
 ## Released EXE
 Start game in bin/CubeSlicer_Ver1.0.exe
+
  [download](http://icsl.snu.ac.kr/haramkim/CubeSlicer_Ver1.0.zip)(0.14GB)
  
