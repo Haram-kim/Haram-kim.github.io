@@ -40,7 +40,7 @@ Key 4: ON/OFF BGM
 
 Start game with "bin/CubeSlicer_Ver1.0.exe"
 
- [Download here](http://icsl.snu.ac.kr/haramkim/CubeSlicer_Ver1.0.zip)(56.1MB)
+ [Download link](http://icsl.snu.ac.kr/haramkim/CubeSlicer_Ver1.0.zip)(56.1MB)
  
 ### Resource references
 
