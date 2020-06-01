@@ -21,9 +21,9 @@ externalLink: false
 ---
 ## Cube slicer
  [Download](http://icsl.snu.ac.kr/haramkim/CubeSlicer_Ver1.0.zip)(56.1MB)
- [Markdowm Image](http://icsl.snu.ac.kr/haramkim/CubeSlicer/Cube Slicer_main.png)
+ [Markdown Image](http://icsl.snu.ac.kr/haramkim/CubeSlicer/Cube Slicer_main.png)
 
- ![Markdowm Image2][http://icsl.snu.ac.kr/haramkim/CubeSlicer/Cube Slicer_main.png]
+ ![Markdown Image2][http://icsl.snu.ac.kr/haramkim/CubeSlicer/Cube Slicer_main.png]
 
 ### Control
 ```
