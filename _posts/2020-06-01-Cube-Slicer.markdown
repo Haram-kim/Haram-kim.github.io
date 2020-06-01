@@ -21,7 +21,7 @@ externalLink: false
 ---
 ## Cube slicer
 
-![Markdowm Image](http://icsl.snu.ac.kr/haramkim/CubeSlicer/Cube Slicer_main.png)
+[Markdowm Image](http://icsl.snu.ac.kr/haramkim/CubeSlicer/Cube Slicer_main.png)
 
 ![Markdowm Image2][http://icsl.snu.ac.kr/haramkim/CubeSlicer/Cube Slicer_main.png]
 
