@@ -25,5 +25,5 @@ Event cameras
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Haram-kim</a></li>
+	<li><a href="https://github.com/Haram-kim">github page</a></li>
 </ul>
