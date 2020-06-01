@@ -20,10 +20,9 @@ externalLink: false
 
 ---
 ## Cube slicer
- [Download](http://icsl.snu.ac.kr/haramkim/CubeSlicer_Ver1.0.zip)(56.1MB)
- [Markdown Image](http://icsl.snu.ac.kr/haramkim/CubeSlicer/CubeSlicer_main.png)
+ [Markdown Image][1]
 
- ![Markdown Image2][/http://icsl.snu.ac.kr/haramkim/CubeSlicer/CubeSlicer_main.png]
+ ![Markdown Image2][2]
 
 ### Control
 ```
@@ -49,5 +48,5 @@ SFX source: https://freesound.org/
 
 Skybox source: https://opengameart.org/content/space-skyboxes-0
 
-[1]: http://icsl.snu.ac.kr/haramkim/CubeSlicer/Cube Slicer_main.png
-[2]: http://icsl.snu.ac.kr/haramkim/CubeSlicer/Cube Slicer.png
+[1]: http://icsl.snu.ac.kr/haramkim/CubeSlicer/CubeSlicer_main.png
+[2]: http://icsl.snu.ac.kr/haramkim/CubeSlicer/CubeSlicer.png
