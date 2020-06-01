@@ -21,6 +21,10 @@ externalLink: false
 ---
 ## Cube slicer
 
+![Markdowm Image][assets/images/Cube Slicer_main.jpg]
+
+![Markdowm Image][assets/images/Cube Slicer.jpg]
+
 ### Control
 ```
 W/A/S/D: Move
