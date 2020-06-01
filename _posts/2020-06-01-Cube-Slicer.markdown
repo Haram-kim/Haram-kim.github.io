@@ -21,9 +21,9 @@ externalLink: false
 ---
 ## Cube slicer
 
-![Markdowm Image][1]
+![Markdowm Image][http://icsl.snu.ac.kr/haramkim/CubeSlicer/Cube Slicer_main.png]
 
-![Markdowm Image][2]
+![Markdowm Image2][http://icsl.snu.ac.kr/haramkim/CubeSlicer/Cube Slicer_main.png]
 
 ### Control
 ```
