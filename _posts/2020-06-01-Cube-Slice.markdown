@@ -41,5 +41,5 @@ Skybox source: https://opengameart.org/content/space-skyboxes-0
 ## Released EXE
 Start game in bin/CubeSlicer_Ver1.0.exe
 
- [download](http://icsl.snu.ac.kr/haramkim/CubeSlicer_Ver1.0.zip)(0.14GB)
+ [Download](http://icsl.snu.ac.kr/haramkim/CubeSlicer_Ver1.0.zip)(56.1MB)
  
