@@ -20,9 +20,11 @@ externalLink: false
 
 ---
 ## Cube slicer
- [Markdown Image][1]
 
- ![Markdown Image2][2]
+### Snapshots
+ ![Main][1]
+
+ ![GoodExample][2]
 
 ### Control
 ```
