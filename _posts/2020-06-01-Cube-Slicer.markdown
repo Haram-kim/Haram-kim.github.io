@@ -31,7 +31,7 @@ Key 3: ON/OFF effect sound
 Key 4: ON/OFF BGM
 ```
 
-## Download
+### Download
 
 Start game with "bin/CubeSlicer_Ver1.0.exe"
 
