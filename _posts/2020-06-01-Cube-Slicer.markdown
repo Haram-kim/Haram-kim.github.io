@@ -42,6 +42,9 @@ Start game with "bin/CubeSlicer_Ver1.0.exe"
 
  [Download link](http://icsl.snu.ac.kr/haramkim/CubeSlicer_Ver1.0.zip)(56.1MB)
  
+### Source code
+https://github.com/Haram-kim/CubeSlicer
+ 
 ### Resource references
 
 BGM source: https://soundcloud.com/crig-1/the-imperial-march-darth 
