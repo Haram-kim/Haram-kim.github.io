@@ -1,7 +1,7 @@
 ---
 title: " ICRA2020: Moving object detection for visual odometry in a dynamic environment based on occlusion accumulation "
 layout: post
-date: 2020-06-01 14:24
+date: 2020-09-17 10:44
 tag: 
 - mablab
 - moving object detection
