@@ -26,7 +26,7 @@ Instead, it uses an occlusion model which enables us to estimate the camera pose
 The proposed algorithm allows to separate the moving object detection and visual odometry (VO) so that an arbitrary robust VO method can be employed in a dynamic situation with a combination of moving object detection, whereas other VO algorithms for a dynamic environment are inseparable. In this paper, we use dense visual odometry (DVO) as a VO method with a bi-square regression weight. Experimental results show the segmentation accuracy and the performance improvement of DVO in the situations. We validate our algorithm in public datasets and our dataset which also publicly accessible.
 
 ### ICRA2020 presentation
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=VVKhPwpGHVw" frameborder="0"> </iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=VVKhPwpGHVw" frameborder="0" allowfullscreen="1"> </iframe>
  
 
 
