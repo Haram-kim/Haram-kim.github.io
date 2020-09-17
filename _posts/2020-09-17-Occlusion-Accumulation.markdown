@@ -40,7 +40,7 @@ Please attach the dataset to source code directory.
 
  [Download link](http://icsl.snu.ac.kr/haramkim/dataset.zip)(60.2MB)
  
-### Citations
+### Bibtex
 ```
 Waiting for bibtex allocation
 ```
