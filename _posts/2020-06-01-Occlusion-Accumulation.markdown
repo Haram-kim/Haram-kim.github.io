@@ -28,7 +28,7 @@ The proposed algorithm allows to separate the moving object detection and visual
 
 ### ICRA2020 presentation
 
-<iframe width="800" height="600" src="https://www.youtube.com/embed/VVKhPwpGHVw" frameborder="0" allowfullscreen="1"> </iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/VVKhPwpGHVw" frameborder="0" allowfullscreen="1"> </iframe>
   
 ### Source code
 https://github.com/Haram-kim/OcclusionAccumulation
