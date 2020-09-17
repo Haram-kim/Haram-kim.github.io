@@ -4,7 +4,6 @@ layout: post
 date: 2020-06-01 14:24
 tag: 
 - mablab
-- project
 - moving object detection
 - occlusion accumulation
 - moving objects
