@@ -28,15 +28,25 @@ The proposed algorithm allows to separate the moving object detection and visual
 
 ### ICRA2020 presentation
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/VVKhPwpGHVw" frameborder="0" allowfullscreen="1"> </iframe>
+<iframe width="800" height="600" src="https://www.youtube.com/embed/VVKhPwpGHVw" frameborder="0" allowfullscreen="1"> </iframe>
   
 ### Source code
 https://github.com/Haram-kim/OcclusionAccumulation
 
 ### Sample dataset
-Dataset for demo 
+Dataset for source code 
+Please attach the dataset to source code directory
 
  [Download link](http://icsl.snu.ac.kr/haramkim/dataset.zip)(60.2MB)
  
 ### Citations
-on-going
+```
+@INPROCEEDINGS{HaramKim2020MODOA,
+   author = {Haram Kim, Pyojin Kim and H. Jin Kim},
+   title = {Moving object detection for visual odometry in a dynamic environment based on occlusion accumulation.},
+   booktitle = {2020 IEEE International Conference on Robotics and Automation (ICRA)},
+   year = {2020},
+   organization={IEEE}
+}
+```
+
