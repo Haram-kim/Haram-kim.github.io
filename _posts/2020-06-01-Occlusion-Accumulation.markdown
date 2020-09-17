@@ -41,12 +41,6 @@ Please attach the dataset to source code directory
  
 ### Citations
 ```
-@inproceedings{HaramKim2020MODOA,
-   author = {Haram Kim, Pyojin Kim and H. Jin Kim},
-   title = {Moving object detection for visual odometry in a dynamic environment based on occlusion accumulation.},
-   booktitle = {2020 IEEE International Conference on Robotics and Automation (ICRA)},
-   year = {2020},
-   organization={IEEE}
-}
+Waiting for bibtex allocation
 ```
 
