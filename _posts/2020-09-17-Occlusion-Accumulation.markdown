@@ -36,7 +36,7 @@ The proposed algorithm allows to separate the moving object detection and visual
 ### Sample dataset
 Dataset for source code 
 
-Please attach the dataset to source code directory.
+Please attach the dataset to source code "/matlab code/" directory.
 
  [Download link](http://icsl.snu.ac.kr/haramkim/dataset.zip)(60.2MB)
  
