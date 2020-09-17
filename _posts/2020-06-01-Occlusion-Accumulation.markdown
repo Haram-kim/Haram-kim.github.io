@@ -7,6 +7,8 @@ tag:
 - project
 - moving object detection
 - occlusion accumulation
+- moving objects
+- dynamic environments
 
 # image: 
 # headerImage: true
