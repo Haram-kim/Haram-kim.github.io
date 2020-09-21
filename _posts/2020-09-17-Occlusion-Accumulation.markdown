@@ -44,6 +44,13 @@ Please attach the dataset to source code "/matlab code/" directory.
  
 ### Bibtex
 ```
-Waiting for bibtex allocation
+@inproceedings{kim2020moving,
+  title={Moving object detection for visual odometry in a dynamic environment based on occlusion accumulation},
+  author={Kim, Haram and Kim, Pyojin and Kim, H Jin},
+  booktitle={2020 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={8658--8664},
+  year={2020},
+  organization={IEEE}
+}
 ```
 
