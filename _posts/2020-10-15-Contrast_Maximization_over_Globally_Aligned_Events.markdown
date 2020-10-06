@@ -1,5 +1,5 @@
 ---
-title: " ICRA2020: Moving object detection for visual odometry in a dynamic environment based on occlusion accumulation "
+title: " Real-time rotatinoal motion estimation with contrast maximization over globally aligned events "
 layout: post
 date: 2020-10-15 10:00
 tag: 
