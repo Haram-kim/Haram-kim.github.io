@@ -22,7 +22,7 @@ externalLink: false
 ---
 
 ### Source code
-[https://github.com/Haram-kim/OcclusionAccumulation](https://github.com/Haram-kim/OcclusionAccumulation)
+[https://github.com/Haram-kim/Globally_Aligned_Events](https://github.com/Haram-kim/Globally_Aligned_Events)
 
 ### Datasets
 
@@ -39,7 +39,7 @@ Data sets without VICON ground truth
 
 | sequence name | description |
 |---------------|-------------|
-| <br> **360_indoor** [ZIP](http://icsl.snu.ac.kr/haramkim/event_dataset/360_indoor.zip)(74.9MB) <br> | 360_indoor |
+| <br> **360_outdoor** [ZIP](http://icsl.snu.ac.kr/haramkim/event_dataset/360_indoor.zip)(74.9MB) <br> | 360_indoor |
 | <br> **fast_roll** [ZIP](http://icsl.snu.ac.kr/haramkim/event_dataset/fast_roll.zip)(25.1MB) <br> |fast_roll |
 | <br> **lobby** [ZIP](http://icsl.snu.ac.kr/haramkim/event_dataset/lobby.zip)(35.7MB) <br> | lobby |
 | <br> **rooftop** [ZIP](http://icsl.snu.ac.kr/haramkim/event_dataset/rooftop.zip)(49.2MB) <br> | rooftop |
