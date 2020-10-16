@@ -26,7 +26,7 @@ externalLink: false
 
 # Datasets
 <div class="pull-left">
-## Data sets with VICON ground truth pose
+ Data sets with VICON ground truth pose
 
 | sequence name | description |
 |:-------------:|-------------|
@@ -37,7 +37,7 @@ externalLink: false
 
 </div>
 <div class="pull-right">
-## Data sets without ground truth pose
+ Data sets without ground truth pose
 
 | sequence name | description |
 |:-------------:|-------------|
