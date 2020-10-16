@@ -26,7 +26,7 @@ externalLink: false
 
 # Datasets
 
-## Data sets with VICON ground truth
+## Data sets with VICON ground truth pose
 
 | sequence name | description |
 |:-------------:|-------------|
@@ -35,7 +35,7 @@ externalLink: false
 | <br> **ESIM_panorama** <br> [ZIP](http://icsl.snu.ac.kr/haramkim/event_dataset/ESIM_panorama.zip)(30.4MB) <br> | ESIM_panorama |
 | <br> **ESIM_OpenGL** <br> [ZIP](http://icsl.snu.ac.kr/haramkim/event_dataset/ESIM_OpenGL.zip)(36.3MB) <br> | ESIM_OpenGL |
 
-## Data sets without ground truth
+## Data sets without ground truth pose
 
 | sequence name | description |
 |:-------------:|-------------|
