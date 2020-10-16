@@ -25,8 +25,8 @@ externalLink: false
 [https://github.com/Haram-kim/Globally_Aligned_Events](https://github.com/Haram-kim/Globally_Aligned_Events)
 
 # Datasets
-<div class="pull-left">
- Data sets with VICON ground truth pose
+
+## Data sets with VICON ground truth pose
 
 | sequence name | description |
 |:-------------:|-------------|
@@ -35,9 +35,7 @@ externalLink: false
 | <br> **ESIM_panorama** <br> [ZIP](http://icsl.snu.ac.kr/haramkim/event_dataset/ESIM_panorama.zip)(30.4MB) <br> | ESIM_panorama |
 | <br> **ESIM_OpenGL** <br> [ZIP](http://icsl.snu.ac.kr/haramkim/event_dataset/ESIM_OpenGL.zip)(36.3MB) <br> | ESIM_OpenGL |
 
-</div>
-<div class="pull-right">
- Data sets without ground truth pose
+## Data sets without ground truth pose
 
 | sequence name | description |
 |:-------------:|-------------|
@@ -46,12 +44,3 @@ externalLink: false
 | <br> **lobby** <br> [ZIP](http://icsl.snu.ac.kr/haramkim/event_dataset/lobby.zip)(35.7MB) <br> | lobby |
 | <br> **rooftop**  <br> [ZIP](http://icsl.snu.ac.kr/haramkim/event_dataset/rooftop.zip)(49.2MB) <br> | rooftop |
 
-</div>
-
-
-<div class=pull-left>
-Write you first Column Text right here followed by closing Markdown Code
-</div>
-<div class=pull-right>
-Now write the Text of your 2nd Column, keep in mind that some Markdown Styling won't Work
-</div>
