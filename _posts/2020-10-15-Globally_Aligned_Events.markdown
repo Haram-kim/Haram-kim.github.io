@@ -21,6 +21,10 @@ externalLink: false
 
 ---
 
+
+<img src="http://icsl.snu.ac.kr/haramkim/SNU_LARR.png" alt="SNU LARR logo" width = "600">
+
+
 # Source code
 [https://github.com/Haram-kim/Globally_Aligned_Events](https://github.com/Haram-kim/Globally_Aligned_Events)
 
