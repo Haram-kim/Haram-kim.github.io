@@ -29,7 +29,7 @@ externalLink: false
 Data sets with VICON ground truth
 
 | sequence name | description |
-|---------------|-------------|
+|:-------------:|-------------|
 | **360_indoor** [ZIP](http://icsl.snu.ac.kr/haramkim/event_dataset/360_indoor.zip)(29.3MB) | 360_indoor |
 | **fast_motion** [ZIP](http://icsl.snu.ac.kr/haramkim/event_dataset/fast_motion.zip)(23.7MB) | fast_motion |
 | **ESIM_panorama** [ZIP](http://icsl.snu.ac.kr/haramkim/event_dataset/ESIM_panorama.zip)(30.4MB) | ESIM_panorama |
@@ -38,7 +38,7 @@ Data sets with VICON ground truth
 Data sets without VICON ground truth
 
 | sequence name | description |
-|---------------|-------------|
+|:-------------:|-------------|
 | **360_outdoor** [ZIP](http://icsl.snu.ac.kr/haramkim/event_dataset/360_indoor.zip)(74.9MB) | 360_indoor |
 | **fast_roll** [ZIP](http://icsl.snu.ac.kr/haramkim/event_dataset/fast_roll.zip)(25.1MB) |fast_roll |
 | **lobby** [ZIP](http://icsl.snu.ac.kr/haramkim/event_dataset/lobby.zip)(35.7MB) | lobby |
