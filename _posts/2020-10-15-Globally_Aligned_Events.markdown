@@ -21,12 +21,12 @@ externalLink: false
 
 ---
 
-### Source code
+# Source code
 [https://github.com/Haram-kim/Globally_Aligned_Events](https://github.com/Haram-kim/Globally_Aligned_Events)
 
-### Datasets
+# Datasets
 
-Data sets with VICON ground truth
+## Data sets with VICON ground truth
 
 | sequence name | description |
 |:-------------:|-------------|
@@ -35,7 +35,7 @@ Data sets with VICON ground truth
 | <br> **ESIM_panorama** <br> [ZIP](http://icsl.snu.ac.kr/haramkim/event_dataset/ESIM_panorama.zip)(30.4MB) <br> | ESIM_panorama |
 | <br> **ESIM_OpenGL** <br> [ZIP](http://icsl.snu.ac.kr/haramkim/event_dataset/ESIM_OpenGL.zip)(36.3MB) <br> | ESIM_OpenGL |
 
-Data sets without VICON ground truth
+## Data sets without VICON ground truth
 
 | sequence name | description |
 |:-------------:|-------------|
