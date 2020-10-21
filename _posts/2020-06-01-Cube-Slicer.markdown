@@ -40,7 +40,7 @@ Key 4: ON/OFF BGM
 
 Start game with "bin/CubeSlicer_Ver1.0.exe"
 
- [Download link](http://icsl.snu.ac.kr/haramkim/CubeSlicer_Ver1.0.zip)(56.1MB)
+ [Download link](https://icsl.snu.ac.kr/haramkim/CubeSlicer_Ver1.0.zip)(56.1MB)
  
 ### Source code
 https://github.com/Haram-kim/CubeSlicer
@@ -53,5 +53,5 @@ SFX source: https://freesound.org/
 
 Skybox source: https://opengameart.org/content/space-skyboxes-0
 
-[1]: http://icsl.snu.ac.kr/haramkim/CubeSlicer/CubeSlicer_main.png
-[2]: http://icsl.snu.ac.kr/haramkim/CubeSlicer/CubeSlicer.png
+[1]: https://icsl.snu.ac.kr/haramkim/CubeSlicer/CubeSlicer_main.png
+[2]: https://icsl.snu.ac.kr/haramkim/CubeSlicer/CubeSlicer.png
