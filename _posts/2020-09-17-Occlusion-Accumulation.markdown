@@ -31,7 +31,7 @@ The proposed algorithm allows to separate the moving object detection and visual
 <iframe width="800" height="450" src="https://www.youtube.com/embed/VVKhPwpGHVw" frameborder="0" allowfullscreen="1"> </iframe>
   
 ### Paper  
-[ICRA2020_Occlusion_Accumulation.pdf](http://icsl.snu.ac.kr/haramkim/Paper/ICRA2020_Occlusion_Accumulation.pdf)  
+[ICRA2020_Occlusion_Accumulation.pdf](https://icsl.snu.ac.kr/haramkim/Paper/ICRA2020_Occlusion_Accumulation.pdf)  
 ### Source code
 [https://github.com/Haram-kim/OcclusionAccumulation](https://github.com/Haram-kim/OcclusionAccumulation)
 
@@ -40,7 +40,7 @@ Dataset for source code
 
 Please attach the dataset to source code "/matlab code/" directory.
 
- [Download link](http://icsl.snu.ac.kr/haramkim/dataset.zip)(60.2MB)
+ [Download link](https://icsl.snu.ac.kr/haramkim/dataset.zip)(60.2MB)
  
 ### Bibtex
 ```
