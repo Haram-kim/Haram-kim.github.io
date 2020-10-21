@@ -61,11 +61,11 @@ k2 = -0.0557
 
 | sequence name | duration | length | min <br> valid depth | description |
 |---------------|:--------:|:------:|:-------------------:|-------------|
-| <br> **static_tree** [ZIP](http://icsl.snu.ac.kr/haramkim/rgbd_dataset/static_tree.zip)(0.14GB) <br> | 13.58s | 0.00m  | 84.66% | A model tree moves in front of the fixed camera |
-| <br> **static_board** [ZIP](http://icsl.snu.ac.kr/haramkim/rgbd_dataset/static_board.zip)(0.27GB) <br> | 18.08s | 0.00m  | 81.% | A large-sized textured board moves which could be misrecognized as the background. |
-| <br> **static_man** [ZIP](http://icsl.snu.ac.kr/haramkim/rgbd_dataset/static_man.zip)(0.23GB) <br> | 19.26s | 0.00m | 81.04% | A man moves in front of the fixed camera. |
-| <br> **static_destruct** [ZIP](http://icsl.snu.ac.kr/haramkim/rgbd_dataset/static_destruct.zip)(0.13GB) <br> | 11.29s | 0.00m | 80.55% | A man brings a building-shaped object A building-shaped object. |
-| <br> **static_construct** [ZIP](http://icsl.snu.ac.kr/haramkim/rgbd_dataset/static_construct.zip)(0.15GB) <br> | 12.052s | 0.00m | 83.93% | A man removes a building-shaped object. |
+| <br> **static_tree** [ZIP](ftp://icsl.snu.ac.kr/haramkim/rgbd_dataset/static_tree.zip)(0.14GB) <br> | 13.58s | 0.00m  | 84.66% | A model tree moves in front of the fixed camera |
+| <br> **static_board** [ZIP](ftp://icsl.snu.ac.kr/haramkim/rgbd_dataset/static_board.zip)(0.27GB) <br> | 18.08s | 0.00m  | 81.% | A large-sized textured board moves which could be misrecognized as the background. |
+| <br> **static_man** [ZIP](ftp://icsl.snu.ac.kr/haramkim/rgbd_dataset/static_man.zip)(0.23GB) <br> | 19.26s | 0.00m | 81.04% | A man moves in front of the fixed camera. |
+| <br> **static_destruct** [ZIP](ftp://icsl.snu.ac.kr/haramkim/rgbd_dataset/static_destruct.zip)(0.13GB) <br> | 11.29s | 0.00m | 80.55% | A man brings a building-shaped object A building-shaped object. |
+| <br> **static_construct** [ZIP](ftp://icsl.snu.ac.kr/haramkim/rgbd_dataset/static_construct.zip)(0.15GB) <br> | 12.052s | 0.00m | 83.93% | A man removes a building-shaped object. |
 | <br>**dynamic_board** [ZIP](http://icsl.snu.ac.kr/haramkim/rgbd_dataset/dynamic_board.zip)(0.58GB) <br> | 48.47s | 11.31m | 83.06% | A man brings a building-shaped object A building-shaped object in front of the freely moving camera.     |
 | <br> **dynamic_man1** [ZIP](http://icsl.snu.ac.kr/haramkim/rgbd_dataset/dynamic_man1.zip)(0.37GB) <br> | 31.06s | 5.65m | 84.07% |  A man moves in front of the freely moving camera.  |
 | <br> **dynamic_man2** [ZIP](http://icsl.snu.ac.kr/haramkim/rgbd_dataset/dynamic_man2.zip)(0.38GB) <br> | 28.17s | 9.67m | 82.23% | A man moves in front of the freely moving camera.  |
