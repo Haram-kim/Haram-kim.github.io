@@ -1,5 +1,5 @@
 ---
-title: " Real-time rotatinoal motion estimation with contrast maximization over globally aligned events "
+title: " RAL2021: Real-time rotatinoal motion estimation with contrast maximization over globally aligned events "
 layout: post
 date: 2020-10-15 10:00
 tag: 
