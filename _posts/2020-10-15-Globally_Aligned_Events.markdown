@@ -1,7 +1,7 @@
 ---
-title: " RAL2021: Real-time rotatinoal motion estimation with contrast maximization over globally aligned events "
+title: " RA-L2021: Real-time rotatinoal motion estimation with contrast maximization over globally aligned events "
 layout: post
-date: 2020-10-15 10:00
+date: 2021-06-10 10:00
 tag: 
 - event camera
 - rotational motion estimation
@@ -24,6 +24,10 @@ externalLink: false
 
 <img src="http://icsl.snu.ac.kr/haramkim/SNU_LARR.png" alt="SNU LARR logo" width = "600">
 
+# Abstract
+Contrast maximization is an event camera application that can estimate angular velocity, depth, and optical-flow using a subset of events observed in a temporal window. In the estimation of rotational motion, we can compute the angular position by integrating the angular velocity. However, the accumulation of drift error degrades the accuracy of motion estimation. If the contrast maximization framework utilizes events measured before the temporal window, the performance of the framework will be improved, including the alleviation of drift error in motion estimation.
+In this work, we utilize the globally aligned event data and propose the rotational position and velocity estimation method using an event camera only. The proposed algorithm not only maximizes contrast of an image of events in a single temporal window but also maximizes the contrast image of events observed over time. Our algorithm works in real-time by reducing additional computations of the existing contrast maximization. We confirm the real-time operation with a single-core CPU on a laptop and show that the maximum error is within 3 degrees on public data sets and acquired real-world data sets.
+To contribute to the community, we provide the source code and the real-world data sets to the public.
 
 # Source code
 [https://github.com/Haram-kim/Globally_Aligned_Events](https://github.com/Haram-kim/Globally_Aligned_Events)
