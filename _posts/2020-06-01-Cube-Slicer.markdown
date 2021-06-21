@@ -32,7 +32,7 @@ externalLink: false
 
     <source src="https://larr.snu.ac.kr/haramkim/CubeSlicer/Cube_Slicer.mp4"
             type="video/mp4">
-
+</video>
 ### Control
 ```
 W/A/S/D: Move
