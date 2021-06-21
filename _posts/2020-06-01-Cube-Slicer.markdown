@@ -28,7 +28,7 @@ externalLink: false
 
 ### Video
 
-<video controls width="250">
+<video controls width="800">
 
     <source src="https://larr.snu.ac.kr/haramkim/CubeSlicer/Cube_Slicer.mp4"
             type="video/mp4">
