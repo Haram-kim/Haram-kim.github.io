@@ -56,3 +56,7 @@ To contribute to the community, we provide the source code and the real-world da
 | <br> **lobby** <br> [ZIP](https://larr.snu.ac.kr/haramkim/event_dataset/lobby.zip)(35.7MB) <br> | lobby |
 | <br> **rooftop**  <br> [ZIP](https://larr.snu.ac.kr/haramkim/event_dataset/rooftop.zip)(49.2MB) <br> | rooftop |
 
+| cx | cy | fx | fy | dist_coeff1 | dist_coeff2 |
+|----|----|----|----|-------------|-------------|
+|230.2097|231.1228|121.6862|86.8208|-0.4136|0.2042|
+
