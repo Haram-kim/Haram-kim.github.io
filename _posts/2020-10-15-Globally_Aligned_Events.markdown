@@ -40,23 +40,20 @@ To contribute to the community, we provide the source code and the real-world da
 
 ### Data sets with VICON ground truth pose
 
-| sequence name | description |
-|:-------------:|-------------|
-| <br> **360_indoor** <br> [ZIP](https://larr.snu.ac.kr/haramkim/event_dataset/360_indoor.zip)(29.4MB) <br> | 360_indoor |
-| <br> **fast_motion** <br> [ZIP](https://larr.snu.ac.kr/haramkim/event_dataset/fast_motion.zip)(23.7MB) <br> | fast_motion |
-| <br> **ESIM_panorama** <br> [ZIP](https://larr.snu.ac.kr/haramkim/event_dataset/ESIM_panorama.zip)(30.5MB) <br> | ESIM_panorama |
-| <br> **ESIM_OpenGL** <br> [ZIP](https://larr.snu.ac.kr/haramkim/event_dataset/ESIM_OpenGL.zip)(36.3MB) <br> | ESIM_OpenGL |
+| sequence name | description | cx | cy | fx | fy | dist_coeff1 | dist_coeff2 |
+|:-------------:|-------------|----|----|----|----|-------------|-------------|
+| <br> **360_indoor** <br> [ZIP](https://larr.snu.ac.kr/haramkim/event_dataset/360_indoor.zip)(29.4MB) <br> | 360_indoor |230.2097|231.1228|121.6862|86.8208|-0.4136|0.2042|
+| <br> **fast_motion** <br> [ZIP](https://larr.snu.ac.kr/haramkim/event_dataset/fast_motion.zip)(23.7MB) <br> | fast_motion |230.2097|231.1228|121.6862|86.8208|-0.4136|0.2042|
+| <br> **ESIM_panorama** <br> [ZIP](https://larr.snu.ac.kr/haramkim/event_dataset/ESIM_panorama.zip)(30.5MB) <br> | ESIM_panorama |200.0000|200.00|120.0000|90.0000|0.0000|0.0000|
+| <br> **ESIM_OpenGL** <br> [ZIP](https://larr.snu.ac.kr/haramkim/event_dataset/ESIM_OpenGL.zip)(36.3MB) <br> | ESIM_OpenGL |200.0000|200.00|120.0000|90.0000|0.0000|0.0000|
 
 ### Data sets without ground truth pose
 
-| sequence name | description |
-|:-------------:|-------------|
-| <br> **360_outdoor** <br> [ZIP](https://larr.snu.ac.kr/haramkim/event_dataset/360_indoor.zip)(74.9MB) <br> | 360_indoor |
-| <br> **fast_roll** <br> [ZIP](https://larr.snu.ac.kr/haramkim/event_dataset/fast_roll.zip)(25.1MB) <br> |fast_roll |
-| <br> **lobby** <br> [ZIP](https://larr.snu.ac.kr/haramkim/event_dataset/lobby.zip)(35.7MB) <br> | lobby |
-| <br> **rooftop**  <br> [ZIP](https://larr.snu.ac.kr/haramkim/event_dataset/rooftop.zip)(49.2MB) <br> | rooftop |
+| sequence name | description | cx | cy | fx | fy | dist_coeff1 | dist_coeff2 |
+|:-------------:|-------------|----|----|----|----|-------------|-------------|
+| <br> **360_outdoor** <br> [ZIP](https://larr.snu.ac.kr/haramkim/event_dataset/360_indoor.zip)(74.9MB) <br> | 360_indoor |230.2097|231.1228|121.6862|86.8208|-0.4136|0.2042|
+| <br> **fast_roll** <br> [ZIP](https://larr.snu.ac.kr/haramkim/event_dataset/fast_roll.zip)(25.1MB) <br> |fast_roll |230.2097|231.1228|121.6862|86.8208|-0.4136|0.2042|
+| <br> **lobby** <br> [ZIP](https://larr.snu.ac.kr/haramkim/event_dataset/lobby.zip)(35.7MB) <br> | lobby |230.2097|231.1228|121.6862|86.8208|-0.4136|0.2042|
+| <br> **rooftop**  <br> [ZIP](https://larr.snu.ac.kr/haramkim/event_dataset/rooftop.zip)(49.2MB) <br> | rooftop |230.2097|231.1228|121.6862|86.8208|-0.4136|0.2042|
 
-| cx | cy | fx | fy | dist_coeff1 | dist_coeff2 |
-|----|----|----|----|-------------|-------------|
-|230.2097|231.1228|121.6862|86.8208|-0.4136|0.2042|
 
